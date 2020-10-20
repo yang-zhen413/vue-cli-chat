@@ -1,3 +1,6 @@
+# vue-cli-chat
+vue-cli+socket实现聊天功能
+
 # talk
 
 ## Project setup
